@@ -9,4 +9,5 @@ https://github.com/IBM/MAX-Speech-to-Text-Converter
 https://github.com/buriburisuri/speech-to-text-wavenet
 https://github.com/akras14/speech-to-text
 https://github.com/atpaino/deep-text-corrector
+https://github.com/Azd325/gingerit
 
