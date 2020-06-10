@@ -10,4 +10,5 @@ https://github.com/buriburisuri/speech-to-text-wavenet
 https://github.com/akras14/speech-to-text
 https://github.com/atpaino/deep-text-corrector
 https://github.com/Azd325/gingerit
+https://www.prnewswire.com/news-releases/global-online-soft-skills-training-market-is-expected-to-reach-us-22-689-4-million-by-2027--growing-at-an-estimated-cagr-of-14-2-over-the-forecast-period-due-to-the-advent-of-self-paced-online-learning-301001814.html
 
