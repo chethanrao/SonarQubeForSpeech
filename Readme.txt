@@ -17,4 +17,5 @@ https://www.inc.com/marcel-schwantes/want-to-talk-with-more-confidence-try-the-1
 https://www.shrm.org/resourcesandtools/hr-topics/behavioral-competencies/communication/pages/the-cost-of-poor-communications.aspx
 Competitors:
 https://virtualspeech.com/learn/public-speaking-apps
+https://play.google.com/store/apps/details?id=com.BeyondVR.beyond&hl=en_US
 
