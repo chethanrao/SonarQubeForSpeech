@@ -20,6 +20,6 @@ Direct competitors:
 https://virtualspeech.com/learn/public-speaking-apps
 https://play.google.com/store/apps/details?id=com.BeyondVR.beyond&hl=en_US
 https://play.google.com/store/apps/details?id=com.pmqsoftware.speech.therapy.uk1&hl=en_US
-
+https://www.talespin.company/copilot
 
 
