@@ -4,6 +4,7 @@
 3) if possible provide recommendations to improve speech.
 4) replay the speech by making appropriate corrections to speech with the same voice by converting the text to speech.
 Resources:
+https://github.com/viromedia/viro
 https://github.com/mozilla/TTS
 https://github.com/google/voice-builder
 https://github.com/IBM/MAX-Speech-to-Text-Converter
