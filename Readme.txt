@@ -23,4 +23,7 @@ https://play.google.com/store/apps/details?id=com.BeyondVR.beyond&hl=en_US
 https://play.google.com/store/apps/details?id=com.pmqsoftware.speech.therapy.uk1&hl=en_US
 https://www.talespin.company/copilot
 
+Costumer questions:
+1) where do you loose the most of the revenue in the company due to communication problems?
+2) how many employees in the company have performance problems due to communication and is actually effecting the end user experience?
 
