@@ -28,4 +28,5 @@ Costumer questions:
 2) how many employees in the company have performance problems due to communication and is actually effecting the end user experience?
 3) where is more problem writtern communication or verbal communication?
 4) is the problem due to collaboration among people with different languages?
+5) whether quality of the content is the problem or the language?
 
