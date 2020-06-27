@@ -26,4 +26,6 @@ https://www.talespin.company/copilot
 Costumer questions:
 1) where do you loose the most of the revenue in the company due to communication problems?
 2) how many employees in the company have performance problems due to communication and is actually effecting the end user experience?
+3) where is more problem writtern communication or verbal communication?
+4) is the problem due to collaboration among people with different languages?
 
