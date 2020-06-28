@@ -30,3 +30,12 @@ Costumer questions:
 4) is the problem due to collaboration among people with different languages?
 5) whether quality of the content is the problem or the language?
 
+Target customers:
+1) customer service representatives
+2) interviewee
+3) interviewer
+4) people managers
+5) public speakers
+6) Teachers,Professors
+7) Lawyers
+ 
