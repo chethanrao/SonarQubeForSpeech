@@ -39,3 +39,8 @@ Target customers:
 6) Teachers,Professors
 7) Lawyers
  
+                    csr(corp)    interviewee  interviewer(corp)  people managers(corp)  public speakers  teachers(school)  professors(corp)   lawyers(corp) 
+size                5             5              2                       2                   2             5                    3                2
+pain/payment        8             5              2                       2                   2             5                    4                4
+accessibility       7             10             7                       5                   2             8                    2                1
+total               27            25             11                      9                   6             18                   9                5
